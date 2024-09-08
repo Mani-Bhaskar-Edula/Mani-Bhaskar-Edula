@@ -1,18 +1,16 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mani Bhaskar</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h2 align="center">IIT Hyderabad Technology Incubation Hub - Software Developer</h2>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+✔️Chosen as 1 of the 500 individuals from a pool of 40,000 applicants for the G20 Jagriti Yatra program.
+✔️Earned the coveted No.1 position in a 1-day development challenge by Red Hat, across India
+✔️Taught 200+ students technology and Leadership.
+✔️One of top 5 teams awarded by IIEC ( Indian Innovation and Entrepreneurship community ).
+✔️Mastered Tech such as cloud (AWS & GCP), Devops, web and App.
 
-- 🔭 I’m currently working on **Student data organiser**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **React_Native , MEARN**
-
-- 📫 How to reach me **edulamanibhaskar@gmail.com**
-
-- ⚡ Real fact **I am Overthinker, but helps in deep analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
