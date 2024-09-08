@@ -3,8 +3,7 @@
 <!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-
+</div>
  
 <h1 align="center">Hi 👋, I'm Mani Bhaskar</h1>
 <h2 align="center">IIT Hyderabad Technology Incubation Hub - Software Developer</h2>
