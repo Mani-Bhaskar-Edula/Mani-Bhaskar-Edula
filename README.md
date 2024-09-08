@@ -4,12 +4,15 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-✔️Chosen as 1 of the 500 individuals from a pool of 40,000 applicants for the G20 Jagriti Yatra program.
-✔️Earned the coveted No.1 position in a 1-day development challenge by Red Hat, across India
-✔️Taught 200+ students technology and Leadership.
-✔️One of top 5 teams awarded by IIEC ( Indian Innovation and Entrepreneurship community ).
-✔️Mastered Tech such as cloud (AWS & GCP), Devops, web and App.
+✔️ Chosen as 1 of the 500 individuals from a pool of 40,000 applicants for the G20 Jagriti Yatra program.
 
+✔️ Earned the coveted No.1 position in a 1-day development challenge by Red Hat, across India.
+
+✔️ Taught 200+ students technology and Leadership.
+
+✔️ One of the top 5 teams awarded by IIEC (Indian Innovation and Entrepreneurship Community).
+
+✔️ Mastered Tech such as cloud (AWS & GCP), DevOps, web, and app development.
 
 
 <h3 align="left">Connect with me:</h3>
