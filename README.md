@@ -21,7 +21,7 @@
 ✔️ Mastered Tech such as cloud (AWS & GCP), DevOps, web, and app development.
 
 </br>
-![GitHub Stats](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)">
 
 
 <h3 align="left">Connect with me:</h3>
