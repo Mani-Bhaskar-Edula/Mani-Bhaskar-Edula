@@ -21,6 +21,9 @@
 ✔️ Mastered Tech such as cloud (AWS & GCP), DevOps, web, and app development.
 
 
+![GitHub Stats](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhaskar_edula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mani_bhaskar" height="30" width="40" /></a>
