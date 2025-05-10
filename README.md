@@ -6,7 +6,7 @@
 </div>
  
 <h1 align="center">Hi 👋, I'm Mani Bhaskar</h1>
-<h2 align="center">IIT Hyderabad Technology Incubation Hub - Productpreneur</h2>
+<h2 align="center">IIT Hyderabad Technology Incubation Hub - Nwizer</h2>
 <h3 align="center">A passionate Generalist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
